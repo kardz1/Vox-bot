@@ -133,5 +133,5 @@ No personal user data or Discord identifiers are ever shared with or transmitted
 
 If you have questions about this Privacy Policy, wish to request data removal, or have security concerns, please contact the Bot developers:
 
-* **Discord:** `[Your Discord Tag/Username or Support Server Link]`
-* **Email:** `[Your Contact Email Address]`
+* **Discord:** kard.z (1455245036860997840)
+* **Email:** kardiorubix@gmail.com
