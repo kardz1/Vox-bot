@@ -120,9 +120,6 @@ We do **not** sell, rent, monetize, or use any collected data or message content
 
 The Bot interacts with the following external APIs solely to fetch publicly available in-game information:
 
-* **Bloxy Values API:** Used to retrieve current in-game fruit stock rotations.
-
-
 * **Supreme Values:** Used to provide publicly listed weapon and trading values.
 
 No personal user data or Discord identifiers are ever shared with or transmitted to these third-party providers.
